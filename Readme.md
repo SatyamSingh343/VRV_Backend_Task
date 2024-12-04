@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Abhi96k/VRV_Security_RBAC_Backend_Assignment-main.git  
+git clone https://github.com/SatyamSingh343/VRV_Backend_Task  
 Navigate to the project directory:
 
 markdown
